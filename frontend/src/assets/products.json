@@ -1,0 +1,125 @@
+
+[
+  {
+    "id": 1,
+    "name": "Hyderabadi Chicken Biryani",
+    "category": "Biriyani",
+    "image":"/images/HyderabadiChickenBiryani.jpg" ,
+    "price": 250,
+    "offerPrice" : 15,
+    "quantity" :20,
+    "description": "Aromatic basmati rice cooked with spicy marinated chicken."
+  },
+  {
+    "id": 2,
+    "name": "Mutton Biryani",
+    "category": "Biriyani",
+    "image": "/images/MuttonBiryani.jpg",
+    "price": 300,
+    "description": "Slow-cooked mutton with fragrant rice and spices."
+  },
+  {
+    "id": 3,
+    "name": "Kerala Parotta",
+    "category": "Parotta",
+    "image": "/images/KeralaParotta.jpeg",
+    "price": 40,
+    "description": "Layered flaky flatbread from South India."
+  },
+  {
+    "id": 4,
+    "name": "Parotta with Chicken Curry",
+    "category": "Parotta",
+    "image": "/images/ParottawithChickenCurry.jpeg",
+    "price": 120,
+    "description": "Flaky parotta served with spicy chicken curry."
+  },
+  {
+    "id": 5,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Supreme_pizza.jpg",
+    "price": 200,
+    "description": "Classic pizza with mozzarella, tomato, and basil."
+  },
+  {
+    "id": 6,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "image": "/images/PepperoniPizza.jpeg",
+    "price": 250,
+    "description": "Cheesy pizza topped with spicy pepperoni slices."
+  },
+  {
+    "id": 7,
+    "name": "Butter Chicken Curry",
+    "category": "Chicken Curry",
+    "image": "/images/ButterChickenCurry.jpeg",
+    "price": 180,
+    "description": "Creamy tomato-based curry with tender chicken pieces."
+  },
+  {
+    "id": 8,
+    "name": "Chettinad Chicken Curry",
+    "category": "Chicken Curry",
+    "image": "/images/ChettinadChickenCurry.jpeg",
+    "price": 200,
+    "description": "Spicy South Indian chicken curry with aromatic spices."
+  },
+  {
+    "id": 9,
+    "name": "Classic Beef Burger",
+    "category": "Burger",
+    "image": "/images/ClassicBeefBurger.jpeg",
+    "price": 150,
+    "description": "Juicy beef patty with cheese, lettuce, and tomato."
+  },
+  {
+    "id": 10,
+    "name": "Chicken Zinger Burger",
+    "category": "Burger",
+    "image": "/images/ChickenZingerBurger.jpeg",
+    "price": 160,
+    "description": "Crispy fried chicken fillet with creamy mayo."
+  },
+  {
+    "id": 11,
+    "name": "Egg Fried Rice",
+    "category": "Fried Rice",
+    "image": "/images/EggFriedRice.jpeg",
+    "price": 120,
+    "description": "Stir-fried rice with scrambled eggs and vegetables."
+  },
+  {
+    "id": 12,
+    "name": "Chicken Fried Rice",
+    "category": "Fried Rice",
+    "image": "/images/ChickenFriedRice.jpeg",
+    "price": 150,
+    "description": "Fried rice with tender chicken pieces and soy sauce."
+  },
+  {
+    "id": 13,
+    "name": "Prawn Fried Rice",
+    "category": "Fried Rice",
+    "image": "/images/PrawnFriedRice.jpeg",
+    "price": 180,
+    "description": "Flavorful fried rice with fresh prawns and spices."
+  },
+  {
+    "id": 14,
+    "name": "Veggie Burger",
+    "category": "Burger",
+    "image": "/images/VeggieBurger.jpeg",
+    "price": 140,
+    "description": "Healthy veggie patty with fresh salad toppings."
+  },
+  {
+    "id": 15,
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizza",
+    "image": "/images/BBQChickenPizza.jpeg",
+    "price": 270,
+    "description": "Pizza topped with BBQ chicken, cheese, and onions."
+  }
+]
